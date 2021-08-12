@@ -1,16 +1,21 @@
-### Hi there 👋
+# Bem-vindo!
 
-<!--
-**mouratocarlos/mouratocarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Meu nome é Carlos Henrique Mourato Alves!
 
-Here are some ideas to get you started:
+:computer: Eu sou Desenvolvedor de Softwares Full-Stack! Profissional apaixonado pela a área que atua, a programação!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:house_with_garden: Moro em Goianésia, Goiás - Brasil.
+
+:books: Atualmente estou estudando tecnologias como Java, JavaScript e ReactNative. Disposto a sempre aprimorar os conhecimentos já adquiridos e aberto a aprender novas tecnologias, afim de crescer tanto profissionalmente quanto pessoa.
+ 
+
+## Mais sobre mim...
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+
+
+- Obrigado pela visita! \o/
+
+----------------------------------------------------------------------------------
