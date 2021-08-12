@@ -11,7 +11,8 @@
 
 ## Mais sobre mim...
 
-:iphone Contato
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+### 👩‍💻 Contato
+
+<a href="https://linkedin.com/mouratocarlos"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ----------------------------------------------------------------------------------
