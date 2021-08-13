@@ -16,8 +16,7 @@
 <a href="https://github.com/mouratocarlos"><img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://facebook.com/mouratocarlos"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://instagram.com/mouratocarlos"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://gitlab.com/mouratocarlos"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
-<a href=""><img src=""></a>
+<a href="https://gitlab.com/mouratocarlos" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 
 ### :computer: Tecnologias
 
