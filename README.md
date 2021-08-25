@@ -2,11 +2,7 @@
 
 ## Meu nome é Carlos Henrique Mourato Alves!
 
-:computer: Desenvolvedor de Softwares Full-Stack. Profissional apaixonado pela a área que atua, a programação!
-
-:house_with_garden: Moro em Goianésia, Goiás - Brasil.
-
-:books: Atualmente estou cursando Análise e Desenvolvimento de Sistemas, estudo tecnologias como Java, JavaScript e ReactNative. Disposto a sempre aprimorar os conhecimentos já adquiridos e aberto a aprender novas tecnologias.
+:computer: Desenvolvedor de Softwares Full-Stack em Formação, estudo tecnologias como Java, JavaScript e ReactNative. Disposto a sempre aprimorar os conhecimentos já adquiridos e aberto a aprender novas tecnologias.
 
 ## Mais sobre mim...
 
