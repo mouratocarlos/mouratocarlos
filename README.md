@@ -28,7 +28,6 @@
 <a href="#"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 
 ### :🎸: Hobby
-<a href="https://www.youtube.com/channel/UCqOxkQNqenIJLz3x6174Vvg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
-"></a>
+<a href="https://www.youtube.com/channel/UCqOxkQNqenIJLz3x6174Vvg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
 ----------------------------------------------------------------------------------
