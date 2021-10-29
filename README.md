@@ -1,8 +1,8 @@
-# Bem-vindo!
+# Bem-vindo!!!
 
 ## Meu nome é Carlos Henrique Mourato Alves!
 
-:computer: Desenvolvedor de Softwares Full-Stack em formação, estudo tecnologias como Java, JavaScript, Angular e Flutter. Disposto a sempre aprimorar os conhecimentos já adquiridos e aberto a aprender novas tecnologias.
+:computer: Desenvolvedor de Softwares Full-Stack em formação, focado em tecnologias como Java, JavaScript, Angular e Flutter. Disposto em aprender novas tecnologias e aprimorar as que já tenho conhecimento, afim de crescer tanto profissionalmente quanto pessoa.
 
 ## Mais sobre mim...
 
@@ -28,7 +28,5 @@
 <a href="#"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 
-### 🎸: Hobby
+### 🎸 Hobby
 <a href="https://www.youtube.com/channel/UCqOxkQNqenIJLz3x6174Vvg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-
-----------------------------------------------------------------------------------
