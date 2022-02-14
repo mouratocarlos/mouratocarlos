@@ -2,7 +2,7 @@
 
 ## Meu nome é Carlos Henrique Mourato Alves!
 
-:computer: Desenvolvedor de Softwares Full-Stack em formação, focado em tecnologias como Java, JavaScript, Angular e Flutter. Disposto em aprender novas tecnologias e aprimorar as que já tenho conhecimento, afim de crescer tanto profissionalmente quanto pessoa.
+:computer: Desenvolvedor de Softwares Full-Stack, focado em tecnologias como Java, JavaScript, Angular e Flutter. Disposto em aprender novas tecnologias e aprimorar as que já tenho conhecimento.
 
 ## Mais sobre mim...
 
