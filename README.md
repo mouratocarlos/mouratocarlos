@@ -1,19 +1,10 @@
-# Bem-vindo!!!
+:computer: Desenvolvedor de Software com mais de 1 ano de experiência no setor bancário e financeiro. Profissional dedicado e apaixonado por programação, atuando em projetos com linguagens e frameworks de back-end como: Java e SpringBoot, projetos com linguagens e frameworks de front-end como: JavaScript, AngularJS, Vue.JS, HTML, CSS, Bootstrap e JQuery, e também projetos desktop com Delphi.
 
-## Meu nome é Carlos Henrique Mourato Alves!
-
-:computer: Desenvolvedor de Softwares Full-Stack, focado em tecnologias como Java, JavaScript, Angular e Flutter. Disposto em aprender novas tecnologias e aprimorar as que já tenho conhecimento.
-
-## Mais sobre mim...
-
-### 👩‍💻 Social
+### 👩‍💻 Contato
 
 <a href="mailto:carloshmourato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://linkedin.com/in/mouratocarlos"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/mouratocarlos"><img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://gitlab.com/mouratocarlos"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
-<a href="https://facebook.com/mouratocarlos"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://instagram.com/mouratocarlos"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 ### :computer: Tecnologias
 
