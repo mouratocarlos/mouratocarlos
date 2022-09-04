@@ -1,4 +1,10 @@
-### :computer: Desenvolvedor de Software com mais de 1 ano de experiência no setor bancário e financeiro. Profissional dedicado e apaixonado por programação, atuando em projetos com linguagens e frameworks de back-end como: Java e SpringBoot, projetos com linguagens e frameworks de front-end como: JavaScript, AngularJS, Vue.JS, HTML, CSS, Bootstrap e JQuery, e também projetos desktop com Delphi.
+## Sejam bem-vindos ao meu repositório!
+
+<div align="center">
+  <a href="https://github.com/HudsonRetonde">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HudsonRetonde&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HudsonRetonde&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ### 👩‍💻 Contato
 
