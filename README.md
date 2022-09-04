@@ -1,4 +1,4 @@
-:computer: Desenvolvedor de Software com mais de 1 ano de experiência no setor bancário e financeiro. Profissional dedicado e apaixonado por programação, atuando em projetos com linguagens e frameworks de back-end como: Java e SpringBoot, projetos com linguagens e frameworks de front-end como: JavaScript, AngularJS, Vue.JS, HTML, CSS, Bootstrap e JQuery, e também projetos desktop com Delphi.
+### :computer: Desenvolvedor de Software com mais de 1 ano de experiência no setor bancário e financeiro. Profissional dedicado e apaixonado por programação, atuando em projetos com linguagens e frameworks de back-end como: Java e SpringBoot, projetos com linguagens e frameworks de front-end como: JavaScript, AngularJS, Vue.JS, HTML, CSS, Bootstrap e JQuery, e também projetos desktop com Delphi.
 
 ### 👩‍💻 Contato
 
