@@ -1,8 +1,3 @@
-<div align="center">
-  <a href="https://github.com/mouratocarlos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mouratocarlos"/>
-</div>
-
 ### 👩‍💻 Contato
 
 <a href="mailto:carloshmourato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
